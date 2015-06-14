@@ -4,4 +4,4 @@ Git has a mutable index called state.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git line for remote repo.
-Git feature branch&simple
+Git dev branch for no fast-forward merge 
